@@ -3,6 +3,7 @@ BasicBench v2.2.3
 To download:
 - Select version, download BasicBench.exe (only file required for download, no setup required)
 
+---
 
 - Note that the application tends to freeze when you run a cpu test and may even become unresponsive.
 
