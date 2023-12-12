@@ -1,5 +1,9 @@
 BasicBench v2.2.3
 
+To download:
+- Select version, download BasicBench.exe (only file required for download, no setup required)
+
+
 - Note that the application tends to freeze when you run a cpu test and may even become unresponsive.
 
 - If this happens, give it a few seconds to finish running the test (should take no more than 30 some seconds) and things should go back to normal
@@ -9,6 +13,3 @@ BasicBench v2.2.3
 - Don't minimise / close the second popup window with the cube rendering when running the GPU test, this will cause the program to not run correctly and return a much higher frame rate response than normal
 
 - Take the 'average results' with a grain of salt, I only tested a few different systems
-
-
-- Also, keep in mind this was made by an idiot high schooler, so it may be slow and buggy and the results may not be entirely correct
